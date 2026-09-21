@@ -1,1 +1,1 @@
-# GITFLOW LAB-5  - Feature Version
+# GITFLOW LAB-5  - Conflict Version
